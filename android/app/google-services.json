@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "765135294201",
+    "project_id": "qrcode-barang",
+    "storage_bucket": "qrcode-barang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765135294201:android:45e590ed37a312710f5c28",
+        "android_client_info": {
+          "package_name": "com.example.qrcode_barang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765135294201-3tdrd9jtgkqanjqjfogqg86u1ke0hf95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAs8q0zirsVyExJ2X7FY0aYy854lK0xHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765135294201-3tdrd9jtgkqanjqjfogqg86u1ke0hf95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765135294201-8gqdcjjq6rprsfba5a8s6ghls2icmrmb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrcodeBarang"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
